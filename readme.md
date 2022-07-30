@@ -22,7 +22,12 @@ Requirements:
     - git
       - gitingore global
       - gitconfig
-  
+
+Installation:
+
+```shell
+bash <(curl -s https://raw.githubusercontent.com/ddmarin94/.dotfiles/master/installer.sh)
+```
 
 Generate brewfile:
 
