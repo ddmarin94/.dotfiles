@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+        name = David
+        email = ddmarin94@gmail.com
+[url "ssh://git@github.com/"]
+        insteadOf = https://github.com/
+[core]
+        excludesfile = /Users/davidmaringomez/.gitignore_global

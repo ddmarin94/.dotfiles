@@ -1,0 +1,14 @@
+{
+  "link": {
+    "/opt/local/bin/dot": "/opt/homebrew/bin/dot",
+    "/usr/local/bin/git": "/opt/homebrew/bin/git",
+    "/usr/local/bin/gpg": "/opt/homebrew/bin/gpg",
+    "~/Library/Application Support/Code - Insiders/User/settings.json": "editors/code/settings.json",
+    "~/Library/Application Support/Code - Insiders/User/snippets": "editors/code/snippets",
+    "~/Library/Application Support/Code/User/settings.json": "editors/code/settings.json",
+    "~/Library/Application Support/Code/User/snippets": "editors/code/snippets",
+    "~/bin/bash": "/opt/homebrew/bin/bash",
+    "~/bin/node": "/usr/local/bin/node",
+    "~/bin/zsh": "/bin/zsh"
+  }
+}

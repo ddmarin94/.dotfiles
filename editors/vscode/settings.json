@@ -1,0 +1,35 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.tabSize": 2,
+  "eslint.alwaysShowStatus": true,
+  "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascript]": {
+      "editor.formatOnSave": true,
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[python]": {
+      "editor.defaultFormatter": null,
+      "editor.formatOnSave": true,
+  },
+  "python.formatting.provider": "black",
+  "[typescriptreact]": {
+      "editor.formatOnSave": true,
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "vsicons.dontShowNewVersionMessage": true,
+  "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+  },
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  },
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": 1
+}
