@@ -10,6 +10,10 @@
 
 # setup_brew
 
-brew bundle --verbose --file "$PWD/os/macos/brew/Brewfile"
+# brew bundle --verbose --file "$PWD/os/macos/brew/Brewfile"
+
+brew install nvm
+nvm install 16
+nvm use 16
 
 echo 'FINISH'
